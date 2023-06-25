@@ -1,6 +1,6 @@
 ### Hi there my name is Benjamin Vilaplana Stark or Jammin aka BenBungle👋
 
-I'm currently learning Full stack web developing on 4geeksacademy.
+
 I'm looking for help to understand more how the work industry of a full stack web developer is, any suggestions on where I can find more information about it are accepted.
 
 Reach me: benstarkart@gmail.com
