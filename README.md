@@ -1,14 +1,11 @@
 ### Hi there my name is Benjamin Vilaplana Stark or Jammin aka BenBungle👋
 
-
-I'm looking for help to understand more how the work industry of a full stack web developer is, any suggestions on where I can find more information about it are accepted.
-
-Reach me: benstarkart@gmail.com
+I'm currently searching  for a full stack software developer job 
 
 I'm in a never ending journey of learning about this wortld of coding, it had always been something i've wanted to learn and here we are LEARNING, PRACTICING AND ENJOYING IT.
 
 Possibilities are measured by our own actions and mentality to progress and go foward and beyond within ourselves and outside.
-
+Reach me: benstarkart@gmail.com
 
 <!--
 **BenBungle/BenBungle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
