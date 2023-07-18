@@ -15,6 +15,8 @@ Possibilities are measured by our own actions and mentality to progress and go f
 Reach me: benstarkart@gmail.com
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenBungle)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **BenBungle/BenBungle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
