@@ -28,7 +28,7 @@ Languages and Tools:
 
 <img align="left" alt="Node.js" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Node.js" width="26px" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw1KPzqvdukcCQxEfd8UR9kS&ust=1690378899691000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiKg6H-qYADFQAAAAAdAAAAABAE"/>
+<img align="left" alt="Node.js" width="26px" src= "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenBungle)](https://github.com/anuraghazra/github-readme-stats)
 
