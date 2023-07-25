@@ -30,9 +30,11 @@ Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src= "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 
-<img align="left" alt="Node.js" width="26px" src= "https://cdn1.iconfinder.com/data/icons/carbon-design-system-vol-7/32/SQL-512.png"/>
+<img align="left" alt="SQL.js" width="26px" src= "https://cdn1.iconfinder.com/data/icons/carbon-design-system-vol-7/32/SQL-512.png"/>
 
-<img align="left" alt="Node.js" width="26px" src= "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png"/>
+<img align="left" alt="GIT.js" width="26px" src= "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png"/>
+
+<img align="left" alt="Flask" width="26px" src= "https://banner2.cleanpng.com/20180411/lhw/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e93eb8cb6.9246575015234781639648.jpg"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenBungle)](https://github.com/anuraghazra/github-readme-stats)
 
