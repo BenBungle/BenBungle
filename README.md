@@ -30,6 +30,8 @@ Languages and Tools:
 
 <img align="left" alt="Node.js" width="26px" src= "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 
+<img align="left" alt="Node.js" width="26px" src= "https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png"/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenBungle)](https://github.com/anuraghazra/github-readme-stats)
 
 
